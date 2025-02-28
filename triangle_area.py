@@ -1,10 +1,8 @@
 # FILE NAME - triangle_area.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
-
-
+# NAME: Nate Cancel    
+# DATE: 02-28-2025
+# BRIEF DESCRIPTION:  making a triangle with specific measurements
 
 # 1. Make sure you fill out the comments above
 # 2. Write your code in the proper spot
@@ -12,40 +10,27 @@
 # 4. The Sample Output has been included in this code for your convenience
 
 
-
-
-
 ########## ENTER YER CODE BELOW THIS LINE ##########
+ height = ('Enter the height: ')
+base = ('Enter the base: ') 
+
+find_area(height, base)
+    area = 0.5 * height * base
+    return area
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
+print('The area of the triangle is', area)  
+
 ########### END YER CODE ABOVE THIS LINE ###########
-
-
-
-
 
 ########################################
 #          SAMPLE OUTPUT
 ########################################
 
 '''
-
 Enter the height: 1
 Enter the base: 1
 
 The area of the triangle is 0.5
-
-'''
-
-
 
 '''
 
@@ -56,8 +41,6 @@ The area of the triangle is 16.0
 
 '''
 
-
-
 ########################################
 #          REFLECTION QUESTIONS
 ########################################
@@ -65,13 +48,11 @@ The area of the triangle is 16.0
 '''
 
 1. What is the flow of the program? Which line of code kicks off the process?
-
-
-
+find area 
 
 
 2. What was the hardest part of this lab?
-
+i think im finally getting the hang of it! the hardest part was getting the area formula right, since the "enter height" and stuff was the same as the last lab.
 
 
 
