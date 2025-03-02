@@ -16,7 +16,7 @@ base = float(input('Enter the base: '))
 
 triangle_area = 1/2 * (height) * (base)
     
-print('The area of the triangle is', area)  
+print('The area of the triangle is', triangle_area)  
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
