@@ -11,7 +11,7 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
- height = float(input('Enter the height: '))
+height = float(input('Enter the height: '))
 base = float(input('Enter the base: '))
 
 area = 1/2 * (height) * (base)
