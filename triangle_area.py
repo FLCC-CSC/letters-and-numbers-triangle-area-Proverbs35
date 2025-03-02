@@ -1,7 +1,7 @@
 # FILE NAME - triangle_area.py
 
 # NAME: Nate Cancel    
-# DATE: 02-28-2025
+# DATE: 03-02-2025
 # BRIEF DESCRIPTION:  making a triangle with specific measurements
 
 # 1. Make sure you fill out the comments above
