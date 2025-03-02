@@ -11,12 +11,10 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
- height = ('Enter the height: ')
-base = ('Enter the base: ') 
+ height = float(input('Enter the height: '))
+base = float(input('Enter the base: '))
 
-find_area(height, base)
-    area = 0.5 * height * base
-    return area
+area = 0.5 * height * base
     
 print('The area of the triangle is', area)  
 
