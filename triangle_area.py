@@ -14,7 +14,7 @@
  height = float(input('Enter the height: '))
 base = float(input('Enter the base: '))
 
-area = 0.5 * height * base
+area = 1/2 * (height) * (base)
     
 print('The area of the triangle is', area)  
 
