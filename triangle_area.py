@@ -18,10 +18,12 @@ height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
 
 area = 0.5 * height * base
+
 print()
-print('The area of the triangle is ', area)  
+print(f'The area of the triangle is {area}')
 print()
 print("'''")
+
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
