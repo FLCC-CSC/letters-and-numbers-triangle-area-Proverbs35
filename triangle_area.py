@@ -13,6 +13,7 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 print("'''")
+print()
 height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
 
@@ -21,6 +22,7 @@ print()
 print('The area of the triangle is ', area)  
 print()
 print("'''")
+
 ########### END YER CODE ABOVE THIS LINE ###########
 
 ########################################
