@@ -11,14 +11,13 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+
 height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
 
 area = (1/2) * height * base
 
-print()
 print('The area of the triangle is ', area)  
-print()
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
