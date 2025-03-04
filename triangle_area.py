@@ -14,10 +14,11 @@
 height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
 
-find_area = (1/2) * height * base
+area = (1/2) * height * base
 
 print()
-print('The area of the triangle is ', find_area)  
+print('The area of the triangle is ', area)  
+print()
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
