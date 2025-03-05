@@ -43,10 +43,10 @@ The area of the triangle is 0.5
 
 
 
-1. What is the flow of the program? Which line of code kicks off the process?
+#1. What is the flow of the program? Which line of code kicks off the process?
 #area
 
-2. What was the hardest part of this lab?
+#2. What was the hardest part of this lab?
 # i think im finally getting the hang of it! the hardest part was getting the area formula right, since the "enter height" and stuff was the same as the last lab.
 
 
