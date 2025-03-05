@@ -51,7 +51,7 @@ The area of the triangle is 16.0
 '''
 
 1. What is the flow of the program? Which line of code kicks off the process?
-find_area 
+area 
 
 
 2. What was the hardest part of this lab?
