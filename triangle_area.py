@@ -36,12 +36,6 @@ The area of the triangle is 0.5
 
 '''
 
-Enter the height: 8
-Enter the base: 4
-
-The area of the triangle is 16.0
-
-'''
 
 ########################################
 #          REFLECTION QUESTIONS
