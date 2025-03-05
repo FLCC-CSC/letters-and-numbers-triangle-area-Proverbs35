@@ -12,7 +12,6 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-print()
 height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
 
@@ -20,6 +19,7 @@ area = 0.5 * height * base
 
 print()
 print(f'The area of the triangle is {area}')
+print()
 
 
 
