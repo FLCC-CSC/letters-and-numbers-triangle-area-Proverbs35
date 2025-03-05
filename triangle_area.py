@@ -44,7 +44,6 @@ The area of the triangle is 0.5
 
 
 1. What is the flow of the program? Which line of code kicks off the process?
-area 
 
 
 2. What was the hardest part of this lab?
