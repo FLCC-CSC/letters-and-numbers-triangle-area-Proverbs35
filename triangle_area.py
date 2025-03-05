@@ -41,7 +41,7 @@ The area of the triangle is 0.5
 #          REFLECTION QUESTIONS
 ########################################
 
-'''
+
 
 1. What is the flow of the program? Which line of code kicks off the process?
 area 
