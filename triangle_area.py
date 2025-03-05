@@ -12,7 +12,7 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-print('''/n''')
+print('''\n''')
 print()
 height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
