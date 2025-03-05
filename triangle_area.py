@@ -15,9 +15,10 @@
 height = int(input('Enter the height: '))
 base = int(input('Enter the base: '))
 
-area = (1//2 * {base} 8 {height})
+area = 1/2 * base * height
 
-print('The area of the triangle is {area}')
+print()
+print(f'The area of the triangle is {area}')
 
 
 
